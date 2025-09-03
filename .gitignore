@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+.env
+logs/
+*.log
+
+# Build outputs
+dist/
+build/
+.next/
+coverage/
+.cache/
+*.tsbuildinfo
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

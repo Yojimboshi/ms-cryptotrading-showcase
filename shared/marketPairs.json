@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "baseAsset": "BTC",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    },
+    {
+        "id": 2,
+        "baseAsset": "ETH",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    },
+    {
+        "id": 3,
+        "baseAsset": "BNB",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    },
+    {
+        "id": 4,
+        "baseAsset": "SOL",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    },
+    {
+        "id": 5,
+        "baseAsset": "XRP",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    },
+    {
+        "id": 6,
+        "baseAsset": "DOGE",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    },
+    {
+        "id": 7,
+        "baseAsset": "ADA",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    },
+    {
+        "id": 9,
+        "baseAsset": "SHIB",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    },
+    {
+        "id": 10,
+        "baseAsset": "PEPE",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    },
+    {
+        "id": 11,
+        "baseAsset": "TRUMP",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    },
+    {
+        "id": 12,
+        "baseAsset": "WIF",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    },
+    {
+        "id": 13,
+        "baseAsset": "BONK",
+        "quoteAsset": "USDT",
+        "status": "ACTIVE"
+    }
+]
