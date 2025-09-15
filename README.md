@@ -160,5 +160,6 @@ npm start
 📩 Contact the lead developer or check the **issue tracker** for assigned tasks.
 
 ---
+📜 License
 
-**💡 Now you're set to work on the CryptoTrading service!** 🚀🔥
+This project is licensed under the MIT License — see the LICENSE file for details.
